@@ -19,26 +19,33 @@ As atividades aqui organizadas são distribuídas via **GitHub Classroom**. Cada
 
 #### Turma Barra (Segunda-feira)
 
-| Atividade                   | Link para o GitHub Classroom            | Entrega     |
-| --------------------------- | --------------------------------------- | ----------- |
-| prog1-tarefa-html-curriculo | https://classroom.github.com/a/gxe5F3HJ | 26/05  9:00 |
-| prog1-tarefa-scrap-simples  | https://classroom.github.com/a/zDIYG11X | 02/06  9:00 |
-| prog1-tarefa-scrap-yahoo    | https://classroom.github.com/a/hmcmWTXD | 02/06  9:00 |
-| ...                         | ...                                     |             |
+| Atividade                   | Link para o GitHub Classroom            | Entrega                    | Video                                                                                              |
+| --------------------------- | --------------------------------------- | -------------------------- | -------------------------------------------------------------------------------------------------- |
+| prog1-tarefa-html-curriculo | https://classroom.github.com/a/gxe5F3HJ | 26/05  9:00                |                                                                                                    |
+| prog1-apresenta-scrap       | https://classroom.github.com/a/YEoQLxJj | Apenas na aula/Sem entrega | [Web Scraping](https://drive.google.com/file/d/1pMjlJTcIIjRhPu30guEg9rKbDHeLun_p/view?usp=sharing) |
+| prog1-tarefa-scrap-simples  | https://classroom.github.com/a/zDIYG11X | 02/06  9:00                |                                                                                                    |
+| prog1-tarefa-scrap-yahoo    | https://classroom.github.com/a/hmcmWTXD | 02/06  9:00                |                                                                                                    |
+| ...                         | ...                                     |                            |                                                                                                    |
 
 #### Turma Botafogo 2 (Terça-feira)
 
-| Atividade                   | Link para o GitHub Classroom            | Entrega    |
-| --------------------------- | --------------------------------------- | ---------- |
-| prog1-tarefa-html-curriculo | https://classroom.github.com/a/H2n5Rzlz | 27/05 9:00 |
-| ...                         | ...                                     |            |
+| Atividade                   | Link para o GitHub Classroom            | Entrega                    | Video                                                                                              |
+| --------------------------- | --------------------------------------- | -------------------------- | -------------------------------------------------------------------------------------------------- |
+| prog1-tarefa-html-curriculo | https://classroom.github.com/a/H2n5Rzlz | 27/05 9:00                 |                                                                                                    |
+| prog1-apresenta-scrap       | https://classroom.github.com/a/ZoWE9Gr_ | Apenas na aula/Sem entrega | [Web Scraping](https://drive.google.com/file/d/1pMjlJTcIIjRhPu30guEg9rKbDHeLun_p/view?usp=sharing) |
+| prog1-tarefa-scrap-simples  | https://classroom.github.com/a/dEuqk-Df | 03/06 9:00                 |                                                                                                    |
+| prog1-tarefa-scrap-yahoo    | https://classroom.github.com/a/iRhBY7QL | 03/06 9:00                 |                                                                                                    |
+| ...                         | ...                                     |                            |                                                                                                    |
 
 #### Turma Botafogo 1 (Quarta-feira)
 
-| Atividade                   | Link para o GitHub Classroom            | Entrega    |
-| --------------------------- | --------------------------------------- | ---------- |
-| prog1-tarefa-html-curriculo | https://classroom.github.com/a/_ICWOsKt | 28/05 9:00 |
-| ...                         | ...                                     |            |
+| Atividade                   | Link para o GitHub Classroom            | Entrega                    | Video                                                                                              |
+| --------------------------- | --------------------------------------- | -------------------------- | -------------------------------------------------------------------------------------------------- |
+| prog1-tarefa-html-curriculo | https://classroom.github.com/a/_ICWOsKt | 28/05 9:00                 |                                                                                                    |
+| prog1-apresenta-scrap       |                                         | Apenas na aula/Sem entrega | [Web Scraping](https://drive.google.com/file/d/1pMjlJTcIIjRhPu30guEg9rKbDHeLun_p/view?usp=sharing) |
+| prog1-tarefa-scrap-simples  |                                         | 04/06 9:00                 |                                                                                                    |
+| prog1-tarefa-scrap-yahoo    |                                         | 04/06 9:00                 |                                                                                                    |
+| ...                         | ...                                     |                            |                                                                                                    |
 
 ---
 
