@@ -22,7 +22,7 @@ As atividades aqui organizadas são distribuídas via **GitHub Classroom**. Cada
 | Atividade                   | Link para o GitHub Classroom            | Entrega     |
 | --------------------------- | --------------------------------------- | ----------- |
 | prog1-tarefa-html-curriculo | https://classroom.github.com/a/gxe5F3HJ | 26/05  9:00 |
-| prog1-tarefa-scrap-simples  | https://classroom.github.com/a/zDIYG11X | 26/05 13:00 |
+| prog1-tarefa-scrap-simples  | https://classroom.github.com/a/zDIYG11X | 02/06  9:00 |
 | prog1-tarefa-scrap-yahoo    | https://classroom.github.com/a/hmcmWTXD | 02/06  9:00 |
 | ...                         | ...                                     |             |
 
