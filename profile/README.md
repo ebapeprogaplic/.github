@@ -42,9 +42,9 @@ As atividades aqui organizadas são distribuídas via **GitHub Classroom**. Cada
 | Atividade                   | Link para o GitHub Classroom            | Entrega                    | Video                                                                                              |
 | --------------------------- | --------------------------------------- | -------------------------- | -------------------------------------------------------------------------------------------------- |
 | prog1-tarefa-html-curriculo | https://classroom.github.com/a/_ICWOsKt | 28/05 9:00                 |                                                                                                    |
-| prog1-apresenta-scrap       |                                         | Apenas na aula/Sem entrega | [Web Scraping](https://drive.google.com/file/d/1pMjlJTcIIjRhPu30guEg9rKbDHeLun_p/view?usp=sharing) |
-| prog1-tarefa-scrap-simples  |                                         | 04/06 9:00                 |                                                                                                    |
-| prog1-tarefa-scrap-yahoo    |                                         | 04/06 9:00                 |                                                                                                    |
+| prog1-apresenta-scrap       | https://classroom.github.com/a/0S4Rg0Ui | Apenas na aula/Sem entrega | [Web Scraping](https://drive.google.com/file/d/1pMjlJTcIIjRhPu30guEg9rKbDHeLun_p/view?usp=sharing) |
+| prog1-tarefa-scrap-simples  | https://classroom.github.com/a/yUwDeNtC | 04/06 9:00                 |                                                                                                    |
+| prog1-tarefa-scrap-yahoo    | https://classroom.github.com/a/5LaDqGko | 04/06 9:00                 |                                                                                                    |
 | ...                         | ...                                     |                            |                                                                                                    |
 
 ---
