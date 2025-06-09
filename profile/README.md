@@ -25,6 +25,7 @@ As atividades aqui organizadas são distribuídas via **GitHub Classroom**. Cada
 | prog1-apresenta-scrap       | https://classroom.github.com/a/YEoQLxJj | Apenas na aula/Sem entrega | [Web Scraping](https://drive.google.com/file/d/1pMjlJTcIIjRhPu30guEg9rKbDHeLun_p/view?usp=sharing) |
 | prog1-tarefa-scrap-simples  | https://classroom.github.com/a/zDIYG11X | 02/06  9:00                |                                                                                                    |
 | prog1-tarefa-scrap-yahoo    | https://classroom.github.com/a/hmcmWTXD | 02/06  9:00                |                                                                                                    |
+| prog1-apresenta-streamlit   | https://classroom.github.com/a/ONQapbAW | Apenas na aula/Sem entrega |                                                                                                    |
 | ...                         | ...                                     |                            |                                                                                                    |
 
 #### Turma Botafogo 2 (Terça-feira)
