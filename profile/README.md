@@ -27,7 +27,7 @@ As atividades aqui organizadas são distribuídas via **GitHub Classroom**. Cada
 | prog1-tarefa-scrap-yahoo             | https://classroom.github.com/a/hmcmWTXD | 02/06  9:00                            |                                                                                                    |
 | prog1-apresenta-streamlit            | https://classroom.github.com/a/ONQapbAW | Apenas na aula/Sem entrega             |                                                                                                    |
 | prog1-tarefa-streamlit-filmes-series | https://classroom.github.com/a/ZBLUnHHs | Apenas na aula/Sem entrega (exercício) |                                                                                                    |
-| ...                                  | ...                                     |                                        |                                                                                                    |
+| **PROVA**                            | https://classroom.github.com/a/97-nCYdQ | 28/06 23:59                            |                                                                                                    |
 
 #### Turma Botafogo 2 (Terça-feira)
 
@@ -38,8 +38,8 @@ As atividades aqui organizadas são distribuídas via **GitHub Classroom**. Cada
 | prog1-tarefa-scrap-simples           | https://classroom.github.com/a/dEuqk-Df                                            | 03/06 9:00                             |                                                                                                    |
 | prog1-tarefa-scrap-yahoo             | https://classroom.github.com/a/iRhBY7QL                                            | 03/06 9:00                             |                                                                                                    |
 | prog1-apresenta-streamlit            | https://classroom.github.com/a/EA08rZVT                                            | Apenas na aula/Sem entrega             |                                                                                                    |
-| prog1-tarefa-streamlit-filmes-series |                                                                                    | Apenas na aula/Sem entrega (exercício) |                                                                                                    |
-| ...                                  | ...                                                                                |                                        |                                                                                                    |
+| prog1-tarefa-streamlit-filmes-series | https://classroom.github.com/a/Zs6Zy-w4                                            | Apenas na aula/Sem entrega (exercício) |                                                                                                    |
+| **PROVA**                            | https://classroom.github.com/a/oKJpxL7Z                                            | 28/06 23:59                            |                                                                                                    |
 
 #### Turma Botafogo 1 (Quarta-feira)
 
@@ -50,8 +50,8 @@ As atividades aqui organizadas são distribuídas via **GitHub Classroom**. Cada
 | prog1-tarefa-scrap-simples           | https://classroom.github.com/a/yUwDeNtC | 04/06 9:00                             |                                                                                                    |
 | prog1-tarefa-scrap-yahoo             | https://classroom.github.com/a/5LaDqGko | 04/06 9:00                             |                                                                                                    |
 | prog1-apresenta-streamlit            | https://classroom.github.com/a/oJaw3sPD | Apenas na aula/Sem entrega             |                                                                                                    |
-| prog1-tarefa-streamlit-filmes-series |                                         | Apenas na aula/Sem entrega (exercício) |                                                                                                    |
-| ...                                  | ...                                     |                                        |                                                                                                    |
+| prog1-tarefa-streamlit-filmes-series | https://classroom.github.com/a/1hmbyBw0 | Apenas na aula/Sem entrega (exercício) |                                                                                                    |
+| **PROVA**                            | https://classroom.github.com/a/IYLyQass | 28/06 23:59                            |                                                                                                    |
 
 ---
 
