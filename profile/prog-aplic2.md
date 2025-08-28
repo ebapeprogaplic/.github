@@ -17,29 +17,40 @@ Acesse as [aulas gravadas e slides do curso](https://drive.google.com/drive/fold
 
 #### Turma Botafogo 1 (Segunda-feira)
 
-| Atividade                    | Link para o GitHub Classroom            | Entrega                    | Video             |
-| ---------------------------- | --------------------------------------- | -------------------------- | ----------------- |
-| prog2-tarefa-pg-dashboard    | https://classroom.github.com/a/uXb1QyqV | Apenas na aula/Sem entrega | __02-sqlalchemy__ |
-| __prog2-tarefa-pg-db1-voos__ | https://classroom.github.com/a/9ebRk-vm | 18/08, 9h                  |                   |
-| ...                          |                                         |                            |                   |
-|                              |                                         |                            |                   |
+| Atividade                        | Link para o GitHub Classroom            | Entrega                             | Video             | 
+| -------------------------------- | --------------------------------------- | ----------------------------------- | ----------------- |
+| prog2-tarefa-pg-dashboard        | https://classroom.github.com/a/uXb1QyqV | Apenas na aula/Sem entrega          | __02-sqlalchemy__ |
+| __prog2-tarefa-pg-db1-voos__     | https://classroom.github.com/a/9ebRk-vm | 18/08, 9h                           |                   |
+| prog2-tarefa-pg-db2-universidade | https://classroom.github.com/a/I218JxvW | Apenas na aula/Revisão para o Teste |                   |
+| ...                              |                                         |                                     |                   |
+|                                  |                                         |                                     |                   |
 
 
 #### Turma Barra (Terça-feira)
 
-| Atividade                    | Link para o GitHub Classroom            | Entrega                    | Video             |
-| ---------------------------- | --------------------------------------- | -------------------------- | ----------------- |
-| prog2-tarefa-pg-dashboard    | https://classroom.github.com/a/PHFqcDUu | Apenas na aula/Sem entrega | __02-sqlalchemy__ |
-| __prog2-tarefa-pg-db1-voos__ | https://classroom.github.com/a/QGDpLotv | 19/08, 9h                  |                   |
-| ...                          |                                         |                            |                   |
-|                              |                                         |                            |                   |
+| Atividade                        | Link para o GitHub Classroom            | Entrega                             | Video             |
+| -------------------------------- | --------------------------------------- | ----------------------------------- | ----------------- |
+| prog2-tarefa-pg-dashboard        | https://classroom.github.com/a/PHFqcDUu | Apenas na aula/Sem entrega          | __02-sqlalchemy__ |
+| __prog2-tarefa-pg-db1-voos__     | https://classroom.github.com/a/QGDpLotv | 19/08, 9h                           |                   |
+| prog2-tarefa-pg-db2-universidade | https://classroom.github.com/a/LWPEFqDf | Apenas na aula/Revisão para o Teste |                   |
+| ...                              |                                         |                                     |                   |
+|                                  |                                         |                                     |                   |
 
 #### Turma Botafogo 2 (Quinta-feira)
 
-| Atividade                    | Link para o GitHub Classroom            | Entrega                    | Video             |
-| ---------------------------- | --------------------------------------- | -------------------------- | ----------------- |
-| prog2-tarefa-pg-dashboard    | https://classroom.github.com/a/0P9VEaUj | Apenas na aula/Sem entrega | __02-sqlalchemy__ |
-| __prog2-tarefa-pg-db1-voos__ | https://classroom.github.com/a/Mgcxlaja | 21/08, 9h                  |                   |
-| ...                          |                                         |                            |                   |
-|                              |                                         |                            |                   |
+| Atividade                        | Link para o GitHub Classroom            | Entrega                             | Video             |
+| -------------------------------- | --------------------------------------- | ----------------------------------- | ----------------- |
+| prog2-tarefa-pg-dashboard        | https://classroom.github.com/a/0P9VEaUj | Apenas na aula/Sem entrega          | __02-sqlalchemy__ |
+| __prog2-tarefa-pg-db1-voos__     | https://classroom.github.com/a/Mgcxlaja | 21/08, 9h                           |                   |
+| prog2-tarefa-pg-db2-universidade | https://classroom.github.com/a/PD-dM7uL | Apenas na aula/Revisão para o Teste |                   |
+| ...                              |                                         |                                     |                   |
+|                                  |                                         |                                     |                   |
 
+#### Gabaritos (para as 3 turmas)
+
+| Atividade                        | Link para o Repositório Resolvido                                                  |
+| -------------------------------- | ---------------------------------------------------------------------------------- |
+| prog2-tarefa-pg-dashboard        | https://github.com/ebapeprogaplic/prog2-tarefa-pg-dashboard-deresaw2010-1.git      |
+| __prog2-tarefa-pg-db1-voos__     | https://github.com/ebapeprogaplic/prog2-tarefa-pg-db1-voos-deresaw2010-1.git       |
+| prog2-tarefa-pg-db2-universidade | https://github.com/ebapeprogaplic/prog2-tarefa-pg-db2-universidade-deresaw2010.git |
+| ...                              |                                                                                    |
