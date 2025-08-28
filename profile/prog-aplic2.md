@@ -48,9 +48,9 @@ Acesse as [aulas gravadas e slides do curso](https://drive.google.com/drive/fold
 
 #### Gabaritos (para as 3 turmas)
 
-| Atividade                        | Link para o Repositório Resolvido                                                  |
-| -------------------------------- | ---------------------------------------------------------------------------------- |
-| prog2-tarefa-pg-dashboard        | https://github.com/ebapeprogaplic/prog2-tarefa-pg-dashboard-deresaw2010-1.git      |
-| __prog2-tarefa-pg-db1-voos__     | https://github.com/ebapeprogaplic/prog2-tarefa-pg-db1-voos-deresaw2010-1.git       |
-| prog2-tarefa-pg-db2-universidade | https://github.com/ebapeprogaplic/prog2-tarefa-pg-db2-universidade-deresaw2010.git |
-| ...                              |                                                                                    |
+| Atividade                        | Link para o Repositório Resolvido                                   |
+| -------------------------------- | ------------------------------------------------------------------- |
+| prog2-tarefa-pg-dashboard        | https://gist.github.com/jeffsantos/4fd39df1c9269a19f0e005d1ada961d7 |
+| __prog2-tarefa-pg-db1-voos__     | https://gist.github.com/jeffsantos/583d48fcf53d720c8bc2ec4891ab752c |
+| prog2-tarefa-pg-db2-universidade | https://gist.github.com/jeffsantos/a6b2751a4c31c7419eca3f8302a71b3e |
+| ...                              |                                                                     |
