@@ -3,6 +3,21 @@
 ## 👩🏽‍💻️ Programação Aplicada 2
 **3º trimestre de 2025**
 
+---
+### **Avaliação Substituta (AS) - 24/10/2025** 
+
+Escolha o link equivalente a sua turma: 
+
+| Turma            | Link do Github/Classroom                |
+| ---------------- | --------------------------------------- |
+| Turma Barra      | https://classroom.github.com/a/Gc_iQ1gU |
+| Turma Botafogo 1 | https://classroom.github.com/a/Nfokyu4H |
+| Turma Botafogo 2 | https://classroom.github.com/a/h0UimKRS |
+|                  |                                         |
+
+
+---
+
 Acesse as [aulas gravadas e slides do curso](https://drive.google.com/drive/folders/1jFFOSQJWce9xFPNDHuGRVn2Kp5HF6Q6G?usp=sharing).
 
 ### Turmas
